@@ -11161,7 +11161,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     z-index: 0;
     width: 100%;
     height: 860px;
-    background: url("/static/images/views/homepage/hero-bg-58c34a1a86.jpg") top center/cover no-repeat;
+    background: url("/static/images/views/homepage/hero-bg.jpg") top center/cover no-repeat;
     opacity: 52%
 }
 
@@ -11520,7 +11520,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     overflow: hidden;
     -webkit-box-shadow: 0 0 0 var(--screenshot-border) rgba(255,255,255,.2);
     box-shadow: 0 0 0 var(--screenshot-border) rgba(255,255,255,.2);
-    background: url("./static/images/views/homepage/app-screenshot-9e818877e6.webp") center/auto 100% no-repeat
+    background: url("/static/images/views/homepage/app-screenshot.webp") center/auto 100% no-repeat
 }
 
 .view-homepage-refresh .section-top .download-button svg {
@@ -12098,7 +12098,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     height: 310px;
     border-radius: 16px 0 0 16px;
     overflow: hidden;
-    background: url("/static/images/views/homepage/setup-step-3-bg-screenshot-48a1a16566.webp") center/cover no-repeat
+    background: url("/static/images/views/homepage/setup-step-3-bg-screenshot-48a1a16566.png") center/cover no-repeat
 }
 
 .view-homepage-refresh .section-setup-steps .setup-card.play-enhanced .bg-image::after {
