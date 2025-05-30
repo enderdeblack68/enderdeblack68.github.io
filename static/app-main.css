@@ -415,7 +415,7 @@ ul.form-message {
 }
 
 .input-wrapper .text-input {
-    background: #1a2837;
+    background: #0B0C13;
     border: 1px solid rgba(0,0,0,0);
     outline: 0;
     width: 100%;
@@ -559,7 +559,7 @@ ul.form-message {
     font-size: 13px;
     line-height: 20px;
     color: #ff0056;
-    background: #1a2837;
+    background: #0B0C13;
     position: absolute;
     right: 2px;
     top: 2px;
@@ -672,7 +672,7 @@ input:not(:placeholder-shown)+.input-placeholder,.input-placeholder.input-placeh
 }
 
 .checkbox input:checked+.label:before {
-    background: #1a2837 url(/static/images/icons/checkmark-33636dc6dc.svg) center no-repeat
+    background: #0B0C13 url(/static/images/icons/checkmark-33636dc6dc.svg) center no-repeat
 }
 
 .checkbox .label:before {
@@ -687,7 +687,7 @@ input:not(:placeholder-shown)+.input-placeholder,.input-placeholder.input-placeh
     border-radius: 4px;
     position: relative;
     margin-right: 9px;
-    background: #1a2837;
+    background: #0B0C13;
     cursor: pointer
 }
 
@@ -988,8 +988,8 @@ input:not(:placeholder-shown)+.input-placeholder,.input-placeholder.input-placeh
 }
 
 .game-result:hover {
-    -webkit-box-shadow: 0 0 0 1.5px #1a2837;
-    box-shadow: 0 0 0 1.5px #1a2837
+    -webkit-box-shadow: 0 0 0 1.5px #0B0C13;
+    box-shadow: 0 0 0 1.5px #0B0C13
 }
 
 .game-result:hover .name,.game-result:hover .cheats,.game-result:hover .platforms,.game-result:hover .updated,.game-result:hover .status {
@@ -1210,7 +1210,7 @@ html:not(.js-enabled) .game-result .thumbnail:before {
 
 .header-badge__diamond {
     background: #13cfff;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .lightbox {
@@ -1828,7 +1828,7 @@ html,body {
 }
 
 .tag__cta {
-    background: #1a2837;
+    background: #0B0C13;
     -webkit-transition: background-color .15s;
     transition: background-color .15s;
     border: 0;
@@ -1921,8 +1921,8 @@ html,body {
 }
 
 .tile.fade {
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(#11171d));
-    background: linear-gradient(180deg, #1a2837 0%, #11171d 100%)
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(#11171d));
+    background: linear-gradient(180deg, #0B0C13 0%, #11171d 100%)
 }
 
 .tile.fade-blue {
@@ -2360,7 +2360,7 @@ html,body {
 }
 
 .account-layout .account-nav .account-tabs {
-    background: #1a2837;
+    background: #0B0C13;
     padding: 5px;
     border-radius: 10px;
     display: -webkit-inline-box;
@@ -2382,7 +2382,7 @@ html,body {
 
 .account-layout .account-nav .account-tabs a:hover {
     background-color: #fff;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .account-layout .account-nav .account-tabs a+* {
@@ -2391,7 +2391,7 @@ html,body {
 
 .account-layout .account-nav .account-tabs a.current {
     background-color: #fff;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .account-layout .account-breadcrumb {
@@ -3199,8 +3199,8 @@ html,body {
 }
 
 .tile.fade {
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(#11171d));
-    background: linear-gradient(180deg, #1a2837 0%, #11171d 100%)
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(#11171d));
+    background: linear-gradient(180deg, #0B0C13 0%, #11171d 100%)
 }
 
 .tile.fade-blue {
@@ -3855,7 +3855,7 @@ html,body {
 }
 
 .x-download-attribution-form footer button:hover:not(:disabled) {
-    color: #1a2837
+    color: #0B0C13
 }
 
 .x-download-attribution-form .options {
@@ -3936,7 +3936,7 @@ html,body {
     transition: background-color .15s,color .15s,border-color .15s,filter .15s;
     transition: background-color .15s,color .15s,border-color .15s,filter .15s,-webkit-filter .15s;
     background: #acff35;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .x-download-button .button,.x-download-button .button * {
@@ -3965,7 +3965,7 @@ html,body {
 }
 
 .x-download-button .button svg * {
-    fill: #1a2837
+    fill: #0B0C13
 }
 
 .x-download-button .button:not(:disabled) {
@@ -4008,7 +4008,7 @@ html,body {
 }
 
 .x-download-button.no-download-border .no-download {
-    border: 1px solid #1a2837
+    border: 1px solid #0B0C13
 }
 
 @media(max-width: 700px) {
@@ -4277,8 +4277,8 @@ body.os-windows .x-download-button .button-wrapper {
 .x-featured-titles .titles {
     padding: 10px;
     border-radius: 20px;
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(transparent));
-    background: linear-gradient(180deg, #1a2837 0%, transparent 100%)
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(transparent));
+    background: linear-gradient(180deg, #0B0C13 0%, transparent 100%)
 }
 
 .x-featured-titles .titles .x-featured-title+.x-featured-title {
@@ -4448,7 +4448,7 @@ body.os-windows .x-download-button .button-wrapper {
     transition: background-color .15s,color .15s,border-color .15s,filter .15s;
     transition: background-color .15s,color .15s,border-color .15s,filter .15s,-webkit-filter .15s;
     background: #acff35;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .get-started-nonwindows .get-started-nonwindows-button,.get-started-nonwindows .get-started-nonwindows-button * {
@@ -4477,7 +4477,7 @@ body.os-windows .x-download-button .button-wrapper {
 }
 
 .get-started-nonwindows .get-started-nonwindows-button svg * {
-    fill: #1a2837
+    fill: #0B0C13
 }
 
 .get-started-nonwindows .get-started-nonwindows-button:not(:disabled) {
@@ -4520,8 +4520,8 @@ body.os-windows .x-download-button .button-wrapper {
 .x-horizontal-scroller {
     --horizontal-scroller-fade-width: 10px;
     border-radius: 20px;
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(transparent));
-    background: linear-gradient(180deg, #1a2837 0%, transparent 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(transparent));
+    background: linear-gradient(180deg, #0B0C13 0%, transparent 100%);
     padding: 10px;
     position: relative;
     z-index: 0
@@ -4878,8 +4878,8 @@ body.os-windows .x-download-button .button-wrapper {
     margin: 0 12.5px;
     -webkit-box-shadow: 0 0 5px rgba(17,23,29,.5);
     box-shadow: 0 0 5px rgba(17,23,29,.5);
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(#000));
-    background: linear-gradient(180deg, #1a2837 0%, #000 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(#000));
+    background: linear-gradient(180deg, #0B0C13 0%, #000 100%);
     padding: 43px 48px;
     border-radius: 10px
 }
@@ -5431,8 +5431,8 @@ body.os-windows .x-download-button .button-wrapper {
 }
 
 .tile.fade {
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(#11171d));
-    background: linear-gradient(180deg, #1a2837 0%, #11171d 100%)
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(#11171d));
+    background: linear-gradient(180deg, #0B0C13 0%, #11171d 100%)
 }
 
 .tile.fade-blue {
@@ -6887,16 +6887,16 @@ body:not(.os-windows) .x-title-page-download-button .download-button:not(.no-dow
 }
 
 .app-header .download:hover:not(:disabled) {
-    color: #1a2837
+    color: #0B0C13
 }
 
 .app-header .download:not(.outline) {
-    background: #acff35;
-    color: #1a2837
+    background: #8599FF;
+    color: #0B0C13
 }
 
 .app-header .download:not(.outline) svg * {
-    fill: #1a2837
+    fill: #0B0C13
 }
 
 .app-header .download:not(.outline):not(:disabled) {
@@ -7630,7 +7630,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     color: rgba(255,255,255,.8);
     padding: 4px 12px;
     border-radius: 5px;
-    background: #1a2837;
+    background: #0B0C13;
     display: inline-block
 }
 
@@ -7774,7 +7774,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     min-height: 190px;
     padding: 24px;
     border-radius: 5px;
-    border: 1px solid #1a2837;
+    border: 1px solid #0B0C13;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -8849,7 +8849,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     display: inline-flex;
     color: rgba(255,255,255,.8);
     padding: 4px 12px 4px 33px;
-    background: #1a2837 url("/static/images/views/features/link-606944de1e.svg") 12px center no-repeat;
+    background: #0B0C13 url("/static/images/views/features/link-606944de1e.svg") 12px center no-repeat;
     border-radius: 5px;
     margin: 0 5px 5px 0
 }
@@ -8943,7 +8943,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
 }
 
 .features-view .tile.games a:hover:not(:disabled) {
-    color: #1a2837
+    color: #0B0C13
 }
 
 @media(max-width: 900px) {
@@ -10388,7 +10388,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
     display: inline-flex;
     color: rgba(255,255,255,.8);
     padding: 4px 12px 4px 33px;
-    background: #1a2837 url("/static/images/views/features/link-606944de1e.svg") 12px center no-repeat;
+    background: #0B0C13 url("/static/images/views/features/link-606944de1e.svg") 12px center no-repeat;
     border-radius: 5px;
     margin: 0 5px 5px 0
 }
@@ -10698,8 +10698,8 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
 
 .games-view .search-form input {
     height: 43px;
-    background: #1a2837;
-    border: 1px solid #1a2837;
+    background: #0B0C13;
+    border: 1px solid #0B0C13;
     padding: 0 14px;
     border-radius: 5px;
     caret-color: #acff35;
@@ -10836,7 +10836,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
 }
 
 .games-view .search-form button:hover:not(:disabled) {
-    color: #1a2837
+    color: #0B0C13
 }
 
 @media(max-width: 900px) {
@@ -10854,7 +10854,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
 .games-view .sort-options {
     padding: 5px;
     border-radius: 10px;
-    background: #1a2837;
+    background: #0B0C13;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
@@ -10876,7 +10876,7 @@ html.show-alternate-title-header .title-view.cheats-list-above .scroll-to-cheats
 
 .games-view .sort-options a.current {
     background: #fff;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .games-view .sort-options a:not(.current):hover {
@@ -13006,8 +13006,8 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 
 .games-view .search-form input {
     height: 43px;
-    background: #1a2837;
-    border: 1px solid #1a2837;
+    background: #0B0C13;
+    border: 1px solid #0B0C13;
     padding: 0 14px;
     border-radius: 5px;
     caret-color: #acff35;
@@ -13144,7 +13144,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 }
 
 .games-view .search-form button:hover:not(:disabled) {
-    color: #1a2837
+    color: #0B0C13
 }
 
 @media(max-width: 900px) {
@@ -13162,7 +13162,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 .games-view .sort-options {
     padding: 5px;
     border-radius: 10px;
-    background: #1a2837;
+    background: #0B0C13;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
@@ -13184,7 +13184,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 
 .games-view .sort-options a.current {
     background: #fff;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .games-view .sort-options a:not(.current):hover {
@@ -13475,8 +13475,8 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 
 .maps-view .search-form input {
     height: 43px;
-    background: #1a2837;
-    border: 1px solid #1a2837;
+    background: #0B0C13;
+    border: 1px solid #0B0C13;
     padding: 0 14px;
     border-radius: 5px;
     caret-color: #acff35;
@@ -13613,7 +13613,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 }
 
 .maps-view .search-form button:hover:not(:disabled) {
-    color: #1a2837
+    color: #0B0C13
 }
 
 @media(max-width: 900px) {
@@ -13643,7 +13643,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 .maps-view .sort-options {
     padding: 5px;
     border-radius: 10px;
-    background: #1a2837;
+    background: #0B0C13;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
@@ -13663,7 +13663,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 
 .maps-view .sort-options a.current {
     background: #fff;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .maps-view .sort-options a:not(.current):hover {
@@ -13767,8 +13767,8 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 }
 
 .tile.fade {
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(#11171d));
-    background: linear-gradient(180deg, #1a2837 0%, #11171d 100%)
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(#11171d));
+    background: linear-gradient(180deg, #0B0C13 0%, #11171d 100%)
 }
 
 .tile.fade-blue {
@@ -14353,7 +14353,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
     transition: background-color .15s,color .15s,border-color .15s,filter .15s;
     transition: background-color .15s,color .15s,border-color .15s,filter .15s,-webkit-filter .15s;
     background: #acff35;
-    color: #1a2837
+    color: #0B0C13
 }
 
 .title-maps-view .download-wrapper .button,.title-maps-view .download-wrapper .button * {
@@ -14382,7 +14382,7 @@ body:not(.os-windows) .section-top .actions.nonwindows {
 }
 
 .title-maps-view .download-wrapper .button svg * {
-    fill: #1a2837
+    fill: #0B0C13
 }
 
 .title-maps-view .download-wrapper .button:not(:disabled) {
@@ -14438,8 +14438,8 @@ body:not(.os-windows) .title-maps-view .download-wrapper {
 }
 
 .tile.fade {
-    background: -webkit-gradient(linear, left top, left bottom, from(#1a2837), to(#11171d));
-    background: linear-gradient(180deg, #1a2837 0%, #11171d 100%)
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B0C13), to(#11171d));
+    background: linear-gradient(180deg, #0B0C13 0%, #11171d 100%)
 }
 
 .tile.fade-blue {
@@ -15439,7 +15439,7 @@ body:not(.os-windows) .title-view .title-guide-section .guide-card.download .lea
     color: rgba(255,255,255,.8);
     padding: 4px 12px;
     border-radius: 5px;
-    background: #1a2837
+    background: #0B0C13
 }
 
 .title-view .title-stats.mobile {
